@@ -1,4 +1,4 @@
-//Assignment 2
+//Assignment 3
 //@authors: Andrew Hwang and Timothy Kuo
 //
 
@@ -487,7 +487,7 @@ void keyboard(unsigned char key, int x, int y) {
 		}
 		break;
 
-	// the following are with respect to the WORLD coordinate system
+	// the following are with respect to theÂ WORLDÂ coordinate system
 	case '4':	// negative translation along x axis
 		transx = -TRANSFORMATION;
 		break;
@@ -552,7 +552,7 @@ void keyboard(unsigned char key, int x, int y) {
 		}
 		break;
 
-	// the following are with respect to the LOCAL object coordinate system
+	// the following are with respect to theÂ LOCALÂ object coordinate system
 	case 'i':	// negative rotation around local x axis
 		WORLD = OFF;
 		rx = 1.0;
