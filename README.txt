@@ -1,5 +1,5 @@
 ========================================================================
-EECS 466: Assignment 4
+EECS 466: Assignment 3
 authors: Andrew Hwang and Tim Kuo
 ========================================================================
 
@@ -14,7 +14,7 @@ Application functions:
 	2.	MIDDLE mouse button - moves the camera up, down, left, and right in the plane perpendicular to its viewing axis. 
 	3.	RIGHT mouse button - moves the camera forward and back along the viewing vector.
 	Keyboard Commands :
-	NOTE : the following are with respect to the WORLD coordinate system
+	NOTEÂ : the following are with respect to theÂ WORLDÂ coordinate system
 	4.	"4" : negative translation along x axis
 	5.	"6" : positive translation along x axis
 	6.	"8" : positive translation along y axis
@@ -29,7 +29,7 @@ Application functions:
 	15.	"/" : positive rotation around z axis
 	16.	"=" : increase uniform scaling
 	17.	"-" : decrease uniform scaling
-	NOTE : the following are with respect to the LOCAL object coordinate system
+	NOTEÂ : the following are with respect to theÂ LOCALÂ object coordinate system
 	18.	"i" : negative rotation around local x axis
 	19.	"o" : positive rotation around local x axis
 	20.	"k" : negative rotation around local y axis
